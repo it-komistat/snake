@@ -3,3 +3,8 @@ d:\.NET Projects\Test\Snake\Snake\bin\Debug\Snake.pdb
 d:\.NET Projects\Test\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
 d:\.NET Projects\Test\Snake\Snake\obj\Debug\Snake.exe
 d:\.NET Projects\Test\Snake\Snake\obj\Debug\Snake.pdb
+d:\.NET Projects\TestLabGit\Snake\Snake\obj\Debug\Snake.exe
+d:\.NET Projects\TestLabGit\Snake\Snake\obj\Debug\Snake.pdb
+d:\.NET Projects\TestLabGit\Snake\Snake\bin\Debug\Snake.exe
+d:\.NET Projects\TestLabGit\Snake\Snake\bin\Debug\Snake.pdb
+d:\.NET Projects\TestLabGit\Snake\Snake\obj\Debug\Snake.csprojResolveAssemblyReference.cache
